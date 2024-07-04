@@ -7,11 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar-nv&label=Profile%20views&color=0e75b6&style=flat" alt="manohar-nv" /> </p>
 
+- 🔭 I’m currently pursuing  **Full Stack Web Development**
+
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://manoharnvportfolio.netlify.app/](https://manoharnvportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://manoharnvportfolio.netlify.app/)  
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Javascript, CSS, HTML, MEARN**
 
 - 📫 How to reach me **manoharnv92@gmail.com**
 

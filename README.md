@@ -58,6 +58,13 @@
 
 # 📊 GitHub Stats:
 
+
+<p align="center">
+  <a href="https://github.com/MANOHAR-NV">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-nv&" alt="manohar-nv" />
+      </a>
+  </p>
+
 <p align="center">
     <a href="https://github.com/MANOHAR-NV">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-nv&show_icons=true&locale=en" alt="manohar-nv"/>
@@ -65,10 +72,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MANOHAR-NV">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-nv&" alt="manohar-nv" />
-  </a>
-  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-nv&show_icons=true&locale=en&layout=compact" alt="manohar-nv" /></p>
+    <a href="https://github.com/MANOHAR-NV">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-nv&show_icons=true&locale=en&layout=compact" alt="manohar-nv" />
+    </a>
+ </p>
 

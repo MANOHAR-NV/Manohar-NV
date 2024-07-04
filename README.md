@@ -19,8 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manohar nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar nv" height="30" width="40" /></a>
-<a href="https://instagram.com/_manohar_nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manohar_nv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manohar-nv-ba40bb192/" target="_blank" >
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://manoharnvportfolio.netlify.app/" target="_blank" >
+<img src="https://img.shields.io/badge/Portfolio-FF3850?style=for-the-badge&logo=Linkfire&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:manoharnv92@gmail.com" target="_blank" >
+<img src="https://img.shields.io/badge/Manohar%20NV-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://drive.google.com/file/d/1asONoNRIT5zEbNfdA_JSsxP7kqkG9sIH/view?usp=sharing" target="_blank" >
+<img src="https://img.shields.io/badge/Resume-ffb005?style=for-the-badge&logo=Google%20Drive&logoColor=black&?labelColor=white" alt="Resume"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -3,7 +3,7 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manohar+NV;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
 
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar-nv&label=Profile%20views&color=0e75b6&style=flat" alt="manohar-nv" /> </p>
 

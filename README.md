@@ -31,6 +31,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+# 💻 Tech Stack:
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -54,10 +56,19 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
+# 📊 GitHub Stats:
 
+<p align="center">
+    <a href="https://github.com/MANOHAR-NV">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-nv&show_icons=true&locale=en" alt="manohar-nv"/>
+    </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MANOHAR-NV">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-nv&" alt="manohar-nv" />
+  </a>
+  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-nv&show_icons=true&locale=en&layout=compact" alt="manohar-nv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-nv&show_icons=true&locale=en" alt="manohar-nv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-nv&" alt="manohar-nv" /></p>

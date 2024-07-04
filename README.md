@@ -82,11 +82,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-nv&show_icons=true&locale=en&layout=compact" alt="manohar-nv" />
     </a>
  </p>
-<p align="center">
-  <a href="https://github.com/MANOHAR-NV">
-      <img align="center" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" />
-      </a>
-  </p>
+
 
 <br/>
 

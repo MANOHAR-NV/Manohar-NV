@@ -90,7 +90,7 @@
     </a>
  </p>
 <div align="center">
-  <h1>Now Playing 🎧</h1>
+  <h1>🎧</h1>
   <a href="https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58">
     <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify" />
   </a>

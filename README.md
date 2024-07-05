@@ -89,12 +89,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-nv&show_icons=true&locale=en&layout=compact" alt="manohar-nv" />
     </a>
  </p>
-<div align="center">
-  <h1>🎧</h1>
-  <a href="https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58">
-    <img src="https://github-readme-remake.vercel.app/api/spotify" alt="Spotify" />
-  </a>
-</div>
 
 
 <br/>

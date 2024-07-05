@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <!-- <h1 align="center">Hi 👋, I'm Manohar N V</h1> -->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Manohar+NV;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
-
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
@@ -58,6 +57,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
+<img align="center" alt="line"  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+    
+ <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql,github,vscode,blender,git,windows,kali&perline=14" />
+        </a>
+    </p>
+    
 # 📊 GitHub Stats:
 
 

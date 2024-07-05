@@ -73,7 +73,9 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-nv&" alt="manohar-nv" />
       </a>
   </p>
-  
+  <p align="center">
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=danielex1999&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
+</p>
 <p align="center">
   <a href="https://github.com/MANOHAR-NV">
       <img align="center" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />

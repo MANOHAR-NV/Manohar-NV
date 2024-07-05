@@ -90,11 +90,13 @@
     </a>
  </p>
  
-# 🎧
+<div align="center">
+  <h1>🎧</h1>
+  <a href="https://open.spotify.com/user/31d63wbbh7klfu2gxo66dcl4r5qu">
+    <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</div>
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31d63wbbh7klfu2gxo66dcl4r5qu)
-
----
 <br/>
 
 <p align="center">
